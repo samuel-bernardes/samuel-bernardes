@@ -17,7 +17,7 @@
 <div>
   <h3 align="center"><strong>Quem sou eu?</strong></h3>
   Meu nome é Samuel Bernardes Lopes Santos, tenho 18 anos e sou de Belo Horizonte - MG.
-  No ano de 2021 me formei no curso de Técnico em Informática integrado ao Ensino Médio no IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais) - Campus Ribeirão das Neves.carreira. Atualmente estou cursando Sistemas de Informação no Centro Universitário Una.
+  No ano de 2021 me formei no curso de Técnico em Informática integrado ao Ensino Médio no IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais) - Campus Ribeirão das Neves.carreira. Atualmente estou cursando Engenharia de computação pelo CEFET-MG.
 </div>
 
 </br>
