@@ -24,7 +24,7 @@
 
 <div>
   <h3 align="center"><strong>Minha trajetória </strong></h3>
-  <p>Tenho formação técnica em informática pelo IFMG, atualmente cursando Bacharelado em Sistemas de Informação pela UNA e estagiando Desenvolvimento de Sistemas, tenho experiência com tecnologias React Native, React JS, Typescript, Python, GIT além de pequenas noções de backend com C#. 
+  <p>Tenho formação técnica em informática pelo IFMG, atualmente cursando Engenharia de Computação pelo CEFET-MG e estagiando Desenvolvimento de Sistemas, tenho experiência com tecnologias React Native, React JS, Typescript, Python, GIT além de pequenas noções de backend com C#. 
 Tenho muita vontade de apreender e evoluir profissionalmente, sou comunicativo e bom para trabalhos em grupo.</p></br>
 </div>
 </br>
