@@ -40,10 +40,6 @@ const samuel = {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+#### Onde me encontrar!
+ 
+👔 [linkedin][https://www.linkedin.com/in/samuel-bernardes-lopes-santos/]
