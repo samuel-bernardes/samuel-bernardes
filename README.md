@@ -40,5 +40,5 @@ const samuel = {
 
 ### Contato!
 
-#### 📧 [email][Email] 
-#### 👔 [linkedin][Linkedin]
+#### 📧 [Email][email] 
+#### 👔 [Linkedin][linkedin]
