@@ -42,4 +42,4 @@ const samuel = {
 
 #### Onde me encontrar!
  
-👔 [linkedin][https://www.linkedin.com/in/samuel-bernardes-lopes-santos/]
+👔 [https://www.linkedin.com/in/samuel-bernardes-lopes-santos/][Linkedin]
