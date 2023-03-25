@@ -32,13 +32,13 @@ const samuel = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-bernardes&theme=dracula&hide_langs_below=1" />
 </a>
 
+[email]: mailto:sbernardes467@gmail.com
+[linkedin]: https://www.linkedin.com/in/samuel-bernardes-lopes-santos/
+
+
 <br>
 
+#### Rede Sociais!
+
+🏡 [email][email] **|** 
 👔 [linkedin][linkedin]
-
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/samuel-bernardes-lopes-santos/
