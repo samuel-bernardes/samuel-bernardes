@@ -37,9 +37,4 @@ const samuel = {
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Onde me encontrar!
- 
-👔 [Linkedin][https://www.linkedin.com/in/samuel-bernardes-lopes-santos/]
+[linkedin]: https://www.linkedin.com/in/samuel-bernardes-lopes-santos/
