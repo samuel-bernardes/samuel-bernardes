@@ -1,6 +1,6 @@
-### Oie devs 👋
+### Olá mundo 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Me chamo Samuel e sou um apaixonado por tecnologia e esportes.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
