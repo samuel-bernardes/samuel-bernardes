@@ -4,7 +4,7 @@ Prazer, me chamo Samuel Bernardes.
 
 Tenho 19 e sou apaixonado por tecnologia, games e esporte. 
 Sou formado como técnico em Informática pelo IFMG.
-Trabalho como desenvolvedor fullstack e estudo de Engenharia de Computação no CEFET-MG. 
+Trabalho como desenvolvedor fullstack e estudo Engenharia da Computação no CEFET-MG. 
 Estou sempre disposto a apreender e evoluir como pessoa e profissional. 
 Uma frase que me define é: ***"Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar!"***
 
