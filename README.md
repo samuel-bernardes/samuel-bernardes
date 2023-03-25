@@ -13,10 +13,10 @@ Uma frase que me define é: ***"Ninguem é tão sábio que não tenha algo pra a
 
 ```javascript
 const samuel = {
- name = "SAMUEL BERNARDES LOPES SANTOS",
- acknowledgements = ["REACT", "REACT NATIVE", ".NET", "NODE"],
- primarySkillset = ["Trabalho em equipe", "Comunicação", "Interação com cliente", "Persistente"],
- languages = ["Python", "JavaScript", "Typescript","C#", "C" , "Java"] 
+    name = "SAMUEL BERNARDES LOPES SANTOS",
+    acknowledgements = ["REACT", "REACT NATIVE", ".NET", "NODE"],
+    primarySkillset = ["Trabalho em equipe", "Comunicação", "Interação com cliente", "Persistente"],
+    languages = ["Python", "JavaScript", "Typescript","C#", "C" , "Java"] 
 }
 ```
 
