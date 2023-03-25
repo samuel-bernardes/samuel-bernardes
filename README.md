@@ -38,7 +38,7 @@ const samuel = {
 
 <br>
 
-#### Contato!
+### Contato!
 
-🏡 [email][email] **|** 
-👔 [linkedin][linkedin]
+# 📧 [email][email] **|** 
+# 👔 [linkedin][linkedin]
