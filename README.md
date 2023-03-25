@@ -9,10 +9,10 @@ Me chamo Samuel e sou um apaixonado por tecnologia e esportes.
 ```kotlin
 object **SEU NOME** {
  val name = "SAMUEL BERNARDES LOPES SANTOS"
- val acknowledgements = ["REACT", "REACT NATIVE", "PYTHON", "C# - .NET", "NODE", "TYPESCRIPT"]
+ val acknowledgements = ["REACT", "REACT NATIVE", ".NET", "NODE"]
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("Python", "JavaScript", "Typescript","C#", "C" , "Java") 
 }
 ```
 
