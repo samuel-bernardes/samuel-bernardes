@@ -8,11 +8,10 @@ Me chamo Samuel e sou um apaixonado por tecnologia e esportes.
 
 ```javascript
 const samuel = {
- val name = "SAMUEL BERNARDES LOPES SANTOS"
- val acknowledgements = ["REACT", "REACT NATIVE", ".NET", "NODE"]
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Python", "JavaScript", "Typescript","C#", "C" , "Java") 
+ name = "SAMUEL BERNARDES LOPES SANTOS",
+ acknowledgements = ["REACT", "REACT NATIVE", ".NET", "NODE"],
+ primarySkillset = ["Trabalho em equipe", "Comunicação", "Interação com cliente", "Persistente"],
+ languages = listOf("Python", "JavaScript", "Typescript","C#", "C" , "Java") 
 }
 ```
 
