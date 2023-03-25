@@ -32,6 +32,10 @@ const samuel = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-bernardes&theme=dracula&hide_langs_below=1" />
 </a>
 
+<br>
+
+👔 [linkedin][linkedin]
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
