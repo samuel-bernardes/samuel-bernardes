@@ -38,7 +38,7 @@ const samuel = {
 
 <br>
 
-#### Rede Sociais!
+#### Contato!
 
 🏡 [email][email] **|** 
 👔 [linkedin][linkedin]
