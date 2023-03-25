@@ -1,59 +1,56 @@
-<h3 align="center">
-  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
-  style="
-  width: 20px;
-  height: 20px;
-  margin-right: 5px;
-  ">
-  <strong>Seja bem vindo(a)</strong>
-  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
-  style="
-  width: 20px;
-  height: 20px;
-  margin-left: 5px;
-  ">
-</h3>
+### Oie devs 👋
 
-<div>
-  <h3 align="center"><strong>Quem sou eu?</strong></h3>
-  Meu nome é Samuel Bernardes Lopes Santos, tenho 18 anos e sou de Belo Horizonte - MG.
-  No ano de 2021 me formei no curso de Técnico em Informática integrado ao Ensino Médio no IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais) - Campus Ribeirão das Neves.carreira. Atualmente estou cursando Engenharia de computação pelo CEFET-MG.
-</div>
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-</br>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<div>
-  <h3 align="center"><strong>Minha trajetória </strong></h3>
-  <p>Tenho formação técnica em informática pelo IFMG, atualmente cursando Engenharia de Computação pelo CEFET-MG e estagiando Desenvolvimento de Sistemas, tenho experiência com tecnologias React Native, React JS, Typescript, Python, GIT além de pequenas noções de backend com C#. 
-Tenho muita vontade de apreender e evoluir profissionalmente, sou comunicativo e bom para trabalhos em grupo.</p></br>
-</div>
-</br>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<div>
-  <h3 align="center"><strong>Linguagens e tecnologias que mais utilizo: </strong></h3>
-  <div align="center">
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+}
+```
 
-  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1)
-  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=7159c1)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7159c1)
-  ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=7159c1)
-  ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
-  ![React Native](https://img.shields.io/badge/react%20native-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
-  ![Styled Components](https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7159c1)
-  ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=7159c1)
-  ![Node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=7159c1)
-  </br></br>
-  </div>
-<div>
+## **Linguagens e Ferramentas:**  
 
-</br>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<div>
-  <h3 align="center"><strong>Onde me encontrar: </strong></h3>
-  <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-bernardes-lopes-santos-3940a8225/)](https://www.linkedin.com/in/samuel-bernardes-lopes-santos-3940a8225/)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&labelColor=7159c1&logo=instagram&logoColor=white&link=https://www.instagram.com/samuca_bernades/)](https://www.instagram.com/samuca_bernades/)
-  [![Github](https://img.shields.io/badge/-Github-7159c1?style=flat-square&labelColor=7159c1&logo=github&logoColor=white&link=https://github.com/S-Pinky)](https://github.com/S-Pinky)
-  </div>
-<div>
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
