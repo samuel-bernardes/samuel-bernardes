@@ -17,7 +17,7 @@ const profile = {
     name: "SAMUEL BERNARDES LOPES SANTOS",
     acknowledgements: ["REACT", "REACT NATIVE", ".NET", "NODE"],
     primarySkillset: ["Trabalho em equipe", "Comunicação", "Interação com cliente", "Persistente"],
-    languages: ["Python", "JavaScript", "Typescript","C#", "C" , "Java"] 
+    languages: ["Python", "JavaScript", "Typescript", "C#", "C", "Java"] 
 }
 ```
 
