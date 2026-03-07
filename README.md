@@ -32,15 +32,6 @@ const profile = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/samuel-bernardes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-bernardes&theme=dracula&hide_langs_below=1" />
-</a>
-
 [email]: mailto:sbernardes467@gmail.com
 [linkedin]: https://www.linkedin.com/in/samuel-bernardes-lopes-santos/
 
